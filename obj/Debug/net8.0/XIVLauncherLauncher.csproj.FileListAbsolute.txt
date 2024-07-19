@@ -1,0 +1,14 @@
+C:\My Shit\Programming\C#\FFXIV\XIVLauncherLauncher\bin\Debug\net8.0\XIVLauncherLauncher.exe
+C:\My Shit\Programming\C#\FFXIV\XIVLauncherLauncher\bin\Debug\net8.0\XIVLauncherLauncher.deps.json
+C:\My Shit\Programming\C#\FFXIV\XIVLauncherLauncher\bin\Debug\net8.0\XIVLauncherLauncher.runtimeconfig.json
+C:\My Shit\Programming\C#\FFXIV\XIVLauncherLauncher\bin\Debug\net8.0\XIVLauncherLauncher.dll
+C:\My Shit\Programming\C#\FFXIV\XIVLauncherLauncher\bin\Debug\net8.0\XIVLauncherLauncher.pdb
+C:\My Shit\Programming\C#\FFXIV\XIVLauncherLauncher\obj\Debug\net8.0\XIVLauncherLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Shit\Programming\C#\FFXIV\XIVLauncherLauncher\obj\Debug\net8.0\XIVLauncherLauncher.AssemblyInfoInputs.cache
+C:\My Shit\Programming\C#\FFXIV\XIVLauncherLauncher\obj\Debug\net8.0\XIVLauncherLauncher.AssemblyInfo.cs
+C:\My Shit\Programming\C#\FFXIV\XIVLauncherLauncher\obj\Debug\net8.0\XIVLauncherLauncher.csproj.CoreCompileInputs.cache
+C:\My Shit\Programming\C#\FFXIV\XIVLauncherLauncher\obj\Debug\net8.0\XIVLauncherLauncher.dll
+C:\My Shit\Programming\C#\FFXIV\XIVLauncherLauncher\obj\Debug\net8.0\refint\XIVLauncherLauncher.dll
+C:\My Shit\Programming\C#\FFXIV\XIVLauncherLauncher\obj\Debug\net8.0\XIVLauncherLauncher.pdb
+C:\My Shit\Programming\C#\FFXIV\XIVLauncherLauncher\obj\Debug\net8.0\XIVLauncherLauncher.genruntimeconfig.cache
+C:\My Shit\Programming\C#\FFXIV\XIVLauncherLauncher\obj\Debug\net8.0\ref\XIVLauncherLauncher.dll
