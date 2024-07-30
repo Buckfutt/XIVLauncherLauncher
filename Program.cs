@@ -7,7 +7,7 @@ string LauncherPath;
 
 ACTPath = ini.IniReadValue("Paths", "ACT");
 Console.WriteLine("Launching ACT...");
-Process.Start(ACTPath);
+Process.Start(ACTPath, @" -onlyone");
 
 LauncherPath = ini.IniReadValue("Paths", "XIVLauncher");
 Console.WriteLine("Launching FFXIVLauncher...");
